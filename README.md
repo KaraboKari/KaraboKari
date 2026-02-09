@@ -8,7 +8,6 @@ I'm a **BSc Computer Science student** at **Nelson Mandela University**, passion
 - 💻 Writing code primarily in **Node.js**
 - 🤖 Exploring **Machine Learning** in my spare time
 - 🧠 A curious mind always eager to learn new technologies
-- 🌱 Constantly growing and expanding my skill set
 
 ## 🛠️ Tech Stack
 
@@ -20,11 +19,6 @@ I'm a **BSc Computer Science student** at **Nelson Mandela University**, passion
 ### Learning & Exploring
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🎯 Current Focus
 
